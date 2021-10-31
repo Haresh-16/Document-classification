@@ -1,0 +1,2 @@
+Epoch 50/50
+45/45 [==============================] - 6s 143ms/step - loss: 0.0327 - accuracy: 1.0000 - val_loss: 0.0426 - val_accuracy: 1.0000

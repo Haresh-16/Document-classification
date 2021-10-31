@@ -1,0 +1,2 @@
+Epoch 20/20
+22/22 [==============================] - 3s 147ms/step - loss: 0.0644 - accuracy: 0.9927 - val_loss: 0.0686 - val_accuracy: 0.9868
